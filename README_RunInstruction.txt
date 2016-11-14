@@ -10,3 +10,6 @@ The source code is only runnable when exporting the .java files as a .jar file a
 3. Use command: Java -jar BoatClub.jar
 4. Files will be read/written from/to the resource folder inside the BoatClub folder.
 **********************
+
+Username:hello
+Password:world
