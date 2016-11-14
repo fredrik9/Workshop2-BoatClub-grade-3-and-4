@@ -1,0 +1,10 @@
+
+Changes made after the peer review
+-----------------------------------
+
+1. we did update and add user handling.
+2. we updated the diagrams on all points except the class diagram.
+3. We did not change the boat types into enums as we aggreed that it would be better to 
+have them as seperated classes inherited one abstract class.
+4. We commented the code as they said we should.
+5.
