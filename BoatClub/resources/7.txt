@@ -1,0 +1,5 @@
+Name:Adam Larsson
+memberID:7
+personalNumber:3213215677
+numberOfBoats:0
+------------------------

@@ -1,0 +1,5 @@
+Name:Grace Mangoa
+memberID:2
+personalNumber:9501233245
+numberOfBoats:0
+------------------------

@@ -1,0 +1,5 @@
+Name:Grace Andersson
+memberID:3
+personalNumber:5467546789
+numberOfBoats:0
+------------------------

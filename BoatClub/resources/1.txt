@@ -1,0 +1,17 @@
+Name:Fredrik Jönsson
+memberID:1
+personalNumber:9501161476
+numberOfBoats:3
+------------------------
+ID:6
+type:SailBoat
+length:123
+------------------------
+ID:7
+type:MotorSailor
+length:123333
+------------------------
+ID:8
+type:Other
+length:300
+------------------------

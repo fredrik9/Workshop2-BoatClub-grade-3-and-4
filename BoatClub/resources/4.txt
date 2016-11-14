@@ -1,0 +1,9 @@
+Name:Fredrik Jonsson
+memberID:4
+personalNumber:1233213211
+numberOfBoats:1
+------------------------
+ID:1
+type:MotorSailor
+length:123123123
+------------------------

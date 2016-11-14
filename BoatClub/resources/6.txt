@@ -1,0 +1,5 @@
+Name:Sara Jonsson
+memberID:6
+personalNumber:4564564564
+numberOfBoats:0
+------------------------

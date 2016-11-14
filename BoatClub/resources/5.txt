@@ -1,0 +1,9 @@
+Name:Fredrik Hult
+memberID:5
+personalNumber:1231233212
+numberOfBoats:1
+------------------------
+ID:1
+type:SailBoat
+length:123
+------------------------
